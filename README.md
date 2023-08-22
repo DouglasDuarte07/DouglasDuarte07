@@ -13,9 +13,9 @@ Olá pessoas, eu sou o Douglas 👋🏼
 
 <div align="left">
   
-[![Douglas Github Stats](https://github-readme-stats.vercel.app/api?username=DouglasDuarte07&show_icons=true&theme=dark&bg_color=161b22&hide_rank=true&hide_border=true&line=d1a01f&point=c58545)](https://github.com/DouglasDuarte07/github-readme-stats) 
-<br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DouglasDuarte07&theme=dark&bg_color=161b22&hide_border=true&line=d1a01f&point=c58545)](https://github.com/DouglasDuarte07/github-readme-stats)
+![Douglas Github Stats](https://github-readme-stats.vercel.app/api?username=DouglasDuarte07&show_icons=true&theme=dark&bg_color=161b22&&count_private=true&custom_title=My%20GitHub%20Stats&hide_rank=true&hide_border=true&line=d1a01f&point=c58545)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DouglasDuarte07&theme=dark&bg_color=161b22&count_private=true&hide_border=true&line=d1a01f&point=c58545)
 
 </div>
 <hr>
